@@ -1,0 +1,202 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* HiMasterpiecesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1599.86, 1150}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 544}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* HiMasterpieces */ = {
+		activeExec = 0;
+		executables = (
+			4DDCD26C102168C700AA1D22 /* HiMasterpieces */,
+		);
+	};
+	28216C950DB411BC00E5133A /* FirstViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {973, 546}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 240}";
+		};
+	};
+	28216C960DB411BC00E5133A /* FirstViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1123, 1600}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 667}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4DDCD26C102168C700AA1D22 /* HiMasterpieces */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* HiMasterpieces */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* HiMasterpieces */,
+		);
+		codeSenseManager = 4DDCD27D102168CA00AA1D22 /* Code sense */;
+		executables = (
+			4DDCD26C102168C700AA1D22 /* HiMasterpieces */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					795,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 270625162;
+			PBXWorkspaceStateSaveDate = 270625162;
+		};
+		perUserProjectItems = {
+			4DDCD3301022988D00AA1D22 /* PBXTextBookmark */ = 4DDCD3301022988D00AA1D22 /* PBXTextBookmark */;
+			4DDCD3311022988D00AA1D22 /* PBXTextBookmark */ = 4DDCD3311022988D00AA1D22 /* PBXTextBookmark */;
+			4DDCD3321022988D00AA1D22 /* PBXTextBookmark */ = 4DDCD3321022988D00AA1D22 /* PBXTextBookmark */;
+			4DDCD3331022988D00AA1D22 /* PBXTextBookmark */ = 4DDCD3331022988D00AA1D22 /* PBXTextBookmark */;
+			4DDCD3341022988D00AA1D22 /* PBXTextBookmark */ = 4DDCD3341022988D00AA1D22 /* PBXTextBookmark */;
+			4DDCD3351022988D00AA1D22 /* PBXTextBookmark */ = 4DDCD3351022988D00AA1D22 /* PBXTextBookmark */;
+			4DDCD3361022988D00AA1D22 /* PBXTextBookmark */ = 4DDCD3361022988D00AA1D22 /* PBXTextBookmark */;
+			4DDCD3371022988D00AA1D22 /* PBXTextBookmark */ = 4DDCD3371022988D00AA1D22 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4DDCD27C102168CA00AA1D22 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4DDCD26C102168C700AA1D22 /* HiMasterpieces */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HiMasterpieces;
+		sourceDirectories = (
+		);
+	};
+	4DDCD27C102168CA00AA1D22 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	4DDCD27D102168CA00AA1D22 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4DDCD2CC10216CCF00AA1D22 /* MasterpieceTableController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1123, 741}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 259}";
+		};
+	};
+	4DDCD3301022988D00AA1D22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HiMasterpiecesAppDelegate.m */;
+		name = "HiMasterpiecesAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 544;
+		vrLoc = 0;
+	};
+	4DDCD3311022988D00AA1D22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+		name = "FirstViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 667;
+		vrLoc = 0;
+	};
+	4DDCD3321022988D00AA1D22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DDCD2CC10216CCF00AA1D22 /* MasterpieceTableController.h */;
+		name = "MasterpieceTableController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 259;
+		vrLoc = 0;
+	};
+	4DDCD3331022988D00AA1D22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HiMasterpiecesAppDelegate.m */;
+		name = "HiMasterpiecesAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 544;
+		vrLoc = 0;
+	};
+	4DDCD3341022988D00AA1D22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+		name = "FirstViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 642;
+		vrLoc = 0;
+	};
+	4DDCD3351022988D00AA1D22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DDCD2CC10216CCF00AA1D22 /* MasterpieceTableController.h */;
+		name = "MasterpieceTableController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 259;
+		vrLoc = 0;
+	};
+	4DDCD3361022988D00AA1D22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+		name = "FirstViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 667;
+		vrLoc = 0;
+	};
+	4DDCD3371022988D00AA1D22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DDCD2CC10216CCF00AA1D22 /* MasterpieceTableController.h */;
+		name = "MasterpieceTableController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 259;
+		vrLoc = 0;
+	};
+}

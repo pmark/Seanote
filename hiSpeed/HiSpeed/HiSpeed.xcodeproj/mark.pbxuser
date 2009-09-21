@@ -1,0 +1,153 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* HiSpeedAppDelegate.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1934.71, 925}}";
+			sepNavSelRange = "{475, 0}";
+			sepNavVisRange = "{199, 544}";
+			sepNavWindowFrame = "{{38, 128}, {1365, 874}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* HiSpeed */ = {
+		activeExec = 0;
+		executables = (
+			4DB7D39B1019325F00EDD261 /* HiSpeed */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4DB7D39B1019325F00EDD261 /* HiSpeed */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* HiSpeed */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* HiSpeed */,
+		);
+		codeSenseManager = 4DB7D3AD1019326700EDD261 /* Code sense */;
+		executables = (
+			4DB7D39B1019325F00EDD261 /* HiSpeed */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					722,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 270086751;
+			PBXWorkspaceStateSaveDate = 270086751;
+		};
+		perUserProjectItems = {
+			4DB7D88D1019349A00EDD261 /* PBXTextBookmark */ = 4DB7D88D1019349A00EDD261 /* PBXTextBookmark */;
+			4DB7D8901019349A00EDD261 /* PBXTextBookmark */ = 4DB7D8901019349A00EDD261 /* PBXTextBookmark */;
+			4DB7D89C1019352400EDD261 /* PBXTextBookmark */ = 4DB7D89C1019352400EDD261 /* PBXTextBookmark */;
+			4DB7D8A11019369100EDD261 /* PBXTextBookmark */ = 4DB7D8A11019369100EDD261 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4DB7D3AC1019326700EDD261 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* HiSpeed_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {940.951, 388}}";
+			sepNavSelRange = "{125, 0}";
+			sepNavVisRange = "{0, 214}";
+		};
+	};
+	4DB7D39B1019325F00EDD261 /* HiSpeed */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HiSpeed;
+		sourceDirectories = (
+		);
+	};
+	4DB7D3AC1019326700EDD261 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	4DB7D3AD1019326700EDD261 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4DB7D3B3101932BC00EDD261 /* OFAchievement.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1308.21, 3125}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 799}";
+		};
+	};
+	4DB7D88D1019349A00EDD261 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DB7D3B3101932BC00EDD261 /* OFAchievement.mm */;
+		name = "OFAchievement.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 799;
+		vrLoc = 0;
+	};
+	4DB7D8901019349A00EDD261 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DB7D3B3101932BC00EDD261 /* OFAchievement.mm */;
+		name = "OFAchievement.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 799;
+		vrLoc = 0;
+	};
+	4DB7D89C1019352400EDD261 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HiSpeedAppDelegate.mm */;
+		name = "HiSpeedAppDelegate.m: 11";
+		rLen = 0;
+		rLoc = 199;
+		rType = 0;
+		vrLen = 256;
+		vrLoc = 0;
+	};
+	4DB7D8A11019369100EDD261 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HiSpeedAppDelegate.mm */;
+		name = "HiSpeedAppDelegate.mm: 19";
+		rLen = 0;
+		rLoc = 475;
+		rType = 0;
+		vrLen = 544;
+		vrLoc = 199;
+	};
+}
